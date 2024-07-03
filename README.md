@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm ABDULLAH</h1>
 <h3 align="center">A passionate Student in kocaeli unversity</h3>
 
-- 🔭 I’m currently working on **KOU.PLAY**
+- 🔭 I’m currently working on **KOU Project**
 
-- 🌱 I’m currently learning **JS,C,CSS,REACT**
+- 🌱 I’m currently learning **JS,C,CSS,REACT,tailwind,nextui**
 
-- 👯 I’m looking to collaborate on **KOU.PLAY**
+- 👯 I’m looking to collaborate on **KOU project**
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **C,react,js,tailwind,nextui**
 
 - 📫 How to reach me **abdallhameed2005@gmail.com**
 

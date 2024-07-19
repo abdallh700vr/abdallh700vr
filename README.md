@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **KOU Project**
 
-- 🌱 I’m currently learning **JS,C,CSS,REACT,tailwind,nextui**
+- 🌱 I’m currently learning **JS,C,CSS,REACT,tailwind,nextui,express.js,next.js**
 
 - 👯 I’m looking to collaborate on **KOU project**
 

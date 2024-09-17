@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JS,C,CSS,REACT,tailwind,nextui,express.js,next.js,golang**
 
-- 👯 I’m looking to collaborate on **KOU project**
+- 👯 I’m looking to collaborate on **KOUBOOK**
 
 - 💬 Ask me about **C,react,js,tailwind,nextui**
 

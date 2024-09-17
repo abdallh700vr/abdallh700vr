@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm ABDULLAH</h1>
 <h3 align="center">A passionate Student in kocaeli unversity</h3>
 
-- 🔭 I’m currently working on **KOU Project**
+- 🔭 I’m currently working on **KOUBOOK**
 
-- 🌱 I’m currently learning **JS,C,CSS,REACT,tailwind,nextui,express.js,next.js**
+- 🌱 I’m currently learning **JS,C,CSS,REACT,tailwind,nextui,express.js,next.js,golang**
 
 - 👯 I’m looking to collaborate on **KOU project**
 
